@@ -25,3 +25,20 @@ Started in 2021
 Capacity to grow 2,500 plants a month
 ```
 ---
+| Hydroponic Farming | Traditional Soil Farming |
+| ------------------ | ------------------------ |
+| Grown in Water | Grown in Soil |
+| Grown Year Round | Grown in season |
+| Smaller Footprint | Acres needed |
+---
+## Tasks to complete for Data 110
+- [x] Read the syllabus
+- [ ] Show up ready to learn
+- [ ] Learn the Stuff
+- [ ] Do the Work
+***
+### Footnotes
+
+A brief history of data visualization.<sup>[1]</sup>
+
+<ins>Michael Friendly (2006)</ins>
