@@ -1,4 +1,4 @@
-# ** When Art Meets Data **
+# ***When Art Meets Data***
 
 ## Candace Montgomery
 ## Course: DATA 110
