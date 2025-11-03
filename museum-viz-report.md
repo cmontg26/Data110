@@ -1,19 +1,23 @@
-# ***When Art Meets Data***
+<img width="500" height="275" alt="image" src="https://github.com/user-attachments/assets/4e44ef88-60ce-4592-b067-26fe5000ca32" />
+<img width="500" height="275" alt="image" src="https://github.com/user-attachments/assets/14f1ee86-8838-4d3f-9447-6fff8c0a96cf" />
 
-## Candace Montgomery
-## Course: DATA 110
+
+### Presenter: Candace Montgomery
+**Course**: DATA 110
 
 ```
-Telling Stories Through Data: A Visual Journey at the National Museum of African American History builds data visual
-literacy in a museum setting. The back drop of this museum and the objective is to collect 5-6 visualizations and  detail
-how historically data and art have long worked hand in hand to tell our greatest stories.
+Telling Stories Through Data: A Visual Journey at the National Museum of African American History: This presentation's main
+objective is to build data visualization literacy in a museum setting. I visited the National Museum of African American
+History and Culture and after collecting over 10 images of visualizations that told stories using data, I narrowed it
+down to 4 data visualizations. These select images detail how historically data and art have long worked hand in hand to
+tell our greatest American stories.
 ```
 
 
 # Brief History
 Date of Visit: October 10, 2025
 ### The National Museum of African American History and Culture
-### 1400 Constitution Ave, NW, Washington, DC 20560
+1400 Constitution Ave, NW, Washington, DC 20560
 
 >The National Museum of African American History and Culture (NMAAHC), colloquially known as the Blackstonian, is a Smithsonian Institution museum 
 located on the National Mall in Washington, D.C., in the United States. It was established in 2003 and opened its permanent home in 2016.
