@@ -4,8 +4,7 @@
 ## Course: DATA 110
 
 ### Telling Stories Through Data: A Visual Journey at the National Museum of African American History builds data visual literacy in a museum setting. 
-### The back drop of this museum and the objective is to collect 5-6 visualizations and  detail how historically data and art have long worked hand 
-### in hand to tell our greatest stories.
+### The back drop of this museum and the objective is to collect 5-6 visualizations and  detail how historically data and art have long worked hand in hand to tell our greatest stories.
 
 # Brief History
 Date of Visit: October 10, 2025
