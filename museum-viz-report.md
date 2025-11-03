@@ -19,3 +19,23 @@ Associates/Davis Brody Bond in 2009. Construction began in 2012 and the museum c
 
 ## Map Chart
 
+![PXL_20251009_175325069](https://github.com/user-attachments/assets/dd457e2d-9196-4035-9d5b-59187baa8793)
+
+## Choropleth Diagram
+![WEB Dubois Choropleth](https://github.com/user-attachments/assets/e9b748d7-313a-47d0-a1a5-1e248c12b6a5)
+
+## Sunburst
+
+![PXL_20251009_182154909](https://github.com/user-attachments/assets/005a04fd-2aa1-4fc1-af98-73dbdd2309d0)
+
+## Infographic
+
+![PXL_20251009_182313361](https://github.com/user-attachments/assets/f32eb6ed-8a25-430b-bf0e-a01d34bc2db0)
+
+# Reflections
+
+I was surprised to learn about W.E.B. Dubois’ exhibit at the 1900 Paris World Exposition and how his very early works contributed to the field of modern-day data science.
+
+I have a renewed respect for the ways data can be used to tell stories, historical ones and things yet to come, how data can be used to paint a picture of an era or show the relationship between then and now (points in time) or here and there (locations).
+
+One design lesson I will carry forward is understanding how color and shapes can command the audience’s attention or serve as a distraction. 
