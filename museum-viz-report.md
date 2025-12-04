@@ -53,4 +53,5 @@ I was surprised to learn about W.E.B. Dubois’ exhibit at the 1900 Paris World 
 
 I have a renewed respect for the ways data can be used to tell stories, historical ones and things yet to come, how data can be used to paint a picture of an era or show the relationship between then and now (points in time) or here and there (locations).
 
-One design lesson I will carry forward is understanding how color and shapes can command the audience’s attention or serve as a distraction. 
+One design lesson I will carry forward is understanding how color and shapes can command the audience’s attention or serve as a distraction. Balance is important. Keep it simple. Also, how visuals can show both  quantitative and qualitative data in the same chart.
+
